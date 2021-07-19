@@ -1,0 +1,24 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "welcome to my blog!",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla urna tortor, dignissim at posuere eu, varius ornare felis. Donec ullamcorper dolor in enim posuere vehicula sed vitae tortor. Sed ac porttitor dolor. Sed tempus quis nunc quis porta. Phasellus a placerat tellus. Mauris at feugiat magna. Donec quis ipsum et eros faucibus varius et id dui. Quisque vitae facilisis elit, a efficitur elit. Fusce nec ligula vitae sapien vehicula rhoncus a vitae eros. Aenean interdum sodales lectus id pretium. Pellentesque metus quam, imperdiet vitae eros in, ullamcorper luctus erat. Donec vitae finibus libero. Suspendisse mollis, velit id sollicitudin faucibus, elit ex dignissim lacus, id consectetur leo nisi in est. Ut mattis molestie rutrum.",
+            "tags": [
+                "webdev",
+                "coding",
+                "news"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Top 5 CSS tips & tricks",
+            "body": "Integer eget libero magna. Integer in tincidunt est, nec laoreet dolor. Sed at nibh non augue posuere lobortis at id risus. Sed cursus nisl diam, ac pulvinar dolor placerat sit amet. Suspendisse leo lacus, dapibus at interdum at, consequat et augue. Donec at dui malesuada mauris rutrum convallis. Maecenas turpis diam, condimentum vitae lectus id, mollis imperdiet leo. Donec aliquam vel leo sit amet dictum. Maecenas ornare ante sed mauris maximus, vitae bibendum odio mattis.",
+            "tags":[
+                "css",
+                "webdev",
+                "coding"
+            ]
+        }
+    ]
+}
